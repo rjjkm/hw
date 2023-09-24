@@ -1,0 +1,17 @@
+{
+    "folders": [
+        {
+            "path": "csharp"
+        },
+        {
+            "path": "java"
+        },
+        {
+            "path": "cpp"
+        },
+        {
+            "path": "python"
+        }
+    ],
+    "settings": {}
+}
